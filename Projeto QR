@@ -1,0 +1,11 @@
+<div>
+    <img src="logo.png" alt="IPR Logo" class="logo" id="churchLogo">
+    <footer class="church-info" style="margin-top: 0px; font-size: 1.1rem; text-align: center; color: #ffffff;">
+        <p>Ação abaixo no nome da sua igreja</p>
+        Igreja Realidade em Cristo Cruzeta
+    </footer>
+    <footer class="church-info" style="margin-top: 0px; font-size: 0.9rem; text-align: center; color: #ffffff; opacity: 0.7;">
+        Rua Sebastião Pereira da Silva
+        Bairro Novo Horizonte.
+    </footer>
+</div>
